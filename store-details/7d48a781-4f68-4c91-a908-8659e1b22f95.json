@@ -1,0 +1,81 @@
+{
+  "id": "7d48a781-4f68-4c91-a908-8659e1b22f95",
+  "name": "PAK'nSAVE Rotorua",
+  "banner": "PNS",
+  "address": "Cnr Fenton and Amohau Streets, Rotorua, 3010",
+  "clickAndCollect": true,
+  "delivery": false,
+  "latitude": -38.140495,
+  "longitude": 176.25459,
+  "openingHours": [
+    {
+      "day": "MONDAY",
+      "dayShort": "Mon",
+      "open": "7:00 AM",
+      "close": "9:00 PM"
+    },
+    {
+      "day": "TUESDAY",
+      "dayShort": "Tue",
+      "open": "7:00 AM",
+      "close": "9:00 PM"
+    },
+    {
+      "day": "WEDNESDAY",
+      "dayShort": "Wed",
+      "open": "7:00 AM",
+      "close": "9:00 PM"
+    },
+    {
+      "day": "THURSDAY",
+      "dayShort": "Thu",
+      "open": "7:00 AM",
+      "close": "9:00 PM"
+    },
+    {
+      "day": "FRIDAY",
+      "dayShort": "Fri",
+      "open": "7:00 AM",
+      "close": "9:00 PM"
+    },
+    {
+      "day": "SATURDAY",
+      "dayShort": "Sat",
+      "open": "7:00 AM",
+      "close": "9:00 PM"
+    },
+    {
+      "day": "SUNDAY",
+      "dayShort": "Sun",
+      "open": "7:00 AM",
+      "close": "9:00 PM"
+    }
+  ],
+  "phone": "0800 PAKNSAVE",
+  "localPhone": "073478440",
+  "linkDetails": {
+    "liquorLicenseUrl": "https://s3-ap-southeast-2.amazonaws.com/prod-prod-grability-bucket/documents/000010/5072/liquor-license.pdf"
+  },
+  "physicalStoreCode": "0000103092",
+  "region": "NI",
+  "salesOrgId": "5000",
+  "onboardingMode": false,
+  "defaultCollectType": "CONCIERGE",
+  "expressTimeslots": true,
+  "expressProductLimit": 0,
+  "onlineActive": true,
+  "physicalActive": true,
+  "servicesAndFacilities": [],
+  "physicalAddress": {
+    "streetName": "Cnr Fenton and Amohau Streets",
+    "cityName": "Rotorua",
+    "regionName": "Bay of Plenty",
+    "postalCode": "3010",
+    "countryCode": "NZ",
+    "countryName": "New Zealand"
+  },
+  "deliverySubscriptionProperties": {
+    "available": false
+  },
+  "minimumOrderAmountInCents": 100
+}

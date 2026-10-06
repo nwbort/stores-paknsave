@@ -1,0 +1,82 @@
+{
+  "id": "4a279605-eaa8-470d-bcd4-0a9e3c9ab43b",
+  "name": "PAK'nSAVE Riccarton",
+  "banner": "PNS",
+  "address": "129 Riccarton Road, Riccarton, Christchurch, 8041",
+  "clickAndCollect": true,
+  "delivery": false,
+  "latitude": -43.5312,
+  "longitude": 172.5963,
+  "openingHours": [
+    {
+      "day": "MONDAY",
+      "dayShort": "Mon",
+      "open": "7:00 AM",
+      "close": "10:00 PM"
+    },
+    {
+      "day": "TUESDAY",
+      "dayShort": "Tue",
+      "open": "7:00 AM",
+      "close": "10:00 PM"
+    },
+    {
+      "day": "WEDNESDAY",
+      "dayShort": "Wed",
+      "open": "7:00 AM",
+      "close": "10:00 PM"
+    },
+    {
+      "day": "THURSDAY",
+      "dayShort": "Thu",
+      "open": "7:00 AM",
+      "close": "10:00 PM"
+    },
+    {
+      "day": "FRIDAY",
+      "dayShort": "Fri",
+      "open": "7:00 AM",
+      "close": "10:00 PM"
+    },
+    {
+      "day": "SATURDAY",
+      "dayShort": "Sat",
+      "open": "7:00 AM",
+      "close": "10:00 PM"
+    },
+    {
+      "day": "SUNDAY",
+      "dayShort": "Sun",
+      "open": "7:00 AM",
+      "close": "10:00 PM"
+    }
+  ],
+  "phone": "0800 PAKNSAVE",
+  "localPhone": "033489727",
+  "linkDetails": {
+    "liquorLicenseUrl": "https://s3-ap-southeast-2.amazonaws.com/prod-prod-grability-bucket/documents/000000/9031/liquor-license.pdf"
+  },
+  "physicalStoreCode": "0000009031",
+  "region": "SI",
+  "salesOrgId": "12",
+  "onboardingMode": false,
+  "defaultCollectType": "CONCIERGE",
+  "expressTimeslots": false,
+  "onlineActive": true,
+  "physicalActive": true,
+  "servicesAndFacilities": [],
+  "physicalAddress": {
+    "houseID": "129",
+    "streetName": "Riccarton Road",
+    "cityName": "Christchurch",
+    "regionName": "Canterbury",
+    "districtName": "Riccarton",
+    "postalCode": "8041",
+    "countryCode": "NZ",
+    "countryName": "New Zealand"
+  },
+  "deliverySubscriptionProperties": {
+    "available": false
+  },
+  "minimumOrderAmountInCents": 100
+}

@@ -1,0 +1,82 @@
+{
+  "id": "6cda96e1-7d29-44a6-956b-3fcfdecc8184",
+  "name": "PAK'nSAVE Tamatea",
+  "banner": "PNS",
+  "address": "Leicester Avenue, Tamatea, Napier, 4112",
+  "clickAndCollect": true,
+  "delivery": false,
+  "latitude": -39.509905,
+  "longitude": 176.869414,
+  "openingHours": [
+    {
+      "day": "MONDAY",
+      "dayShort": "Mon",
+      "open": "7:00 AM",
+      "close": "9:00 PM"
+    },
+    {
+      "day": "TUESDAY",
+      "dayShort": "Tue",
+      "open": "7:00 AM",
+      "close": "9:00 PM"
+    },
+    {
+      "day": "WEDNESDAY",
+      "dayShort": "Wed",
+      "open": "7:00 AM",
+      "close": "9:00 PM"
+    },
+    {
+      "day": "THURSDAY",
+      "dayShort": "Thu",
+      "open": "7:00 AM",
+      "close": "9:00 PM"
+    },
+    {
+      "day": "FRIDAY",
+      "dayShort": "Fri",
+      "open": "7:00 AM",
+      "close": "9:00 PM"
+    },
+    {
+      "day": "SATURDAY",
+      "dayShort": "Sat",
+      "open": "7:00 AM",
+      "close": "9:00 PM"
+    },
+    {
+      "day": "SUNDAY",
+      "dayShort": "Sun",
+      "open": "7:00 AM",
+      "close": "9:00 PM"
+    }
+  ],
+  "phone": "0800 PAKNSAVE",
+  "localPhone": "068433135",
+  "linkDetails": {
+    "liquorLicenseUrl": "https://s3-ap-southeast-2.amazonaws.com/prod-prod-grability-bucket/documents/000010/5051/liquor-license.pdf"
+  },
+  "physicalStoreCode": "0000108175",
+  "region": "NI",
+  "salesOrgId": "5000",
+  "onboardingMode": false,
+  "defaultCollectType": "CONCIERGE",
+  "expressTimeslots": true,
+  "expressProductLimit": 0,
+  "onlineActive": true,
+  "physicalActive": true,
+  "servicesAndFacilities": [],
+  "physicalAddress": {
+    "streetName": "Leicester Avenue",
+    "cityName": "Napier",
+    "additionalCityName": "Tamatea",
+    "regionName": "Hawkes Bay",
+    "postalCode": "4112",
+    "countryCode": "NZ",
+    "countryName": "New Zealand"
+  },
+  "deliverySubscriptionProperties": {
+    "available": false
+  },
+  "minimumOrderAmountInCents": 100
+}

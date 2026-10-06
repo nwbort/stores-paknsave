@@ -1,0 +1,82 @@
+{
+  "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
+  "name": "PAK'nSAVE Clarence Street",
+  "banner": "PNS",
+  "address": "85 Clarence Street, Hamilton Lake, Hamilton, 3204",
+  "clickAndCollect": true,
+  "delivery": false,
+  "latitude": -37.795653,
+  "longitude": 175.282839,
+  "openingHours": [
+    {
+      "day": "MONDAY",
+      "dayShort": "Mon",
+      "open": "7:00 AM",
+      "close": "10:00 PM"
+    },
+    {
+      "day": "TUESDAY",
+      "dayShort": "Tue",
+      "open": "7:00 AM",
+      "close": "10:00 PM"
+    },
+    {
+      "day": "WEDNESDAY",
+      "dayShort": "Wed",
+      "open": "7:00 AM",
+      "close": "10:00 PM"
+    },
+    {
+      "day": "THURSDAY",
+      "dayShort": "Thu",
+      "open": "7:00 AM",
+      "close": "10:00 PM"
+    },
+    {
+      "day": "FRIDAY",
+      "dayShort": "Fri",
+      "open": "7:00 AM",
+      "close": "10:00 PM"
+    },
+    {
+      "day": "SATURDAY",
+      "dayShort": "Sat",
+      "open": "7:00 AM",
+      "close": "10:00 PM"
+    },
+    {
+      "day": "SUNDAY",
+      "dayShort": "Sun",
+      "open": "7:00 AM",
+      "close": "10:00 PM"
+    }
+  ],
+  "phone": "0800 PAKNSAVE",
+  "localPhone": "078394056",
+  "linkDetails": {
+    "liquorLicenseUrl": "https://s3-ap-southeast-2.amazonaws.com/prod-prod-grability-bucket/documents/000010/5003/liquor-license.pdf"
+  },
+  "physicalStoreCode": "0000106669",
+  "region": "NI",
+  "salesOrgId": "5000",
+  "onboardingMode": false,
+  "defaultCollectType": "LOCKER",
+  "expressTimeslots": true,
+  "expressProductLimit": 0,
+  "onlineActive": true,
+  "physicalActive": true,
+  "servicesAndFacilities": [],
+  "physicalAddress": {
+    "streetName": "85 Clarence Street",
+    "cityName": "Hamilton",
+    "additionalCityName": "Hamilton Lake",
+    "regionName": "Waikato",
+    "postalCode": "3204",
+    "countryCode": "NZ",
+    "countryName": "New Zealand"
+  },
+  "deliverySubscriptionProperties": {
+    "available": false
+  },
+  "minimumOrderAmountInCents": 100
+}

@@ -1,0 +1,82 @@
+{
+  "id": "21ecaaed-0749-4492-985e-4bb7ba43d59c",
+  "name": "PAK'nSAVE Kilbirnie",
+  "banner": "PNS",
+  "address": "76 Rongotai Road, Kilbirnie, Wellington, 6003",
+  "clickAndCollect": true,
+  "delivery": false,
+  "latitude": -41.319324,
+  "longitude": 174.79672,
+  "openingHours": [
+    {
+      "day": "MONDAY",
+      "dayShort": "Mon",
+      "open": "7:00 AM",
+      "close": "10:00 PM"
+    },
+    {
+      "day": "TUESDAY",
+      "dayShort": "Tue",
+      "open": "7:00 AM",
+      "close": "10:00 PM"
+    },
+    {
+      "day": "WEDNESDAY",
+      "dayShort": "Wed",
+      "open": "7:00 AM",
+      "close": "10:00 PM"
+    },
+    {
+      "day": "THURSDAY",
+      "dayShort": "Thu",
+      "open": "7:00 AM",
+      "close": "10:00 PM"
+    },
+    {
+      "day": "FRIDAY",
+      "dayShort": "Fri",
+      "open": "7:00 AM",
+      "close": "10:00 PM"
+    },
+    {
+      "day": "SATURDAY",
+      "dayShort": "Sat",
+      "open": "7:00 AM",
+      "close": "10:00 PM"
+    },
+    {
+      "day": "SUNDAY",
+      "dayShort": "Sun",
+      "open": "7:00 AM",
+      "close": "10:00 PM"
+    }
+  ],
+  "phone": "0800 PAKNSAVE",
+  "localPhone": "048015068",
+  "linkDetails": {
+    "liquorLicenseUrl": "https://s3-ap-southeast-2.amazonaws.com/prod-prod-grability-bucket/documents/000010/5092/liquor-license.pdf"
+  },
+  "physicalStoreCode": "0000108053",
+  "region": "NI",
+  "salesOrgId": "5000",
+  "onboardingMode": false,
+  "defaultCollectType": "LOCKER",
+  "expressTimeslots": true,
+  "expressProductLimit": 0,
+  "onlineActive": true,
+  "physicalActive": true,
+  "servicesAndFacilities": [],
+  "physicalAddress": {
+    "streetName": "76 Rongotai Road",
+    "cityName": "Wellington",
+    "additionalCityName": "Kilbirnie",
+    "regionName": "Wellington",
+    "postalCode": "6003",
+    "countryCode": "NZ",
+    "countryName": "New Zealand"
+  },
+  "deliverySubscriptionProperties": {
+    "available": false
+  },
+  "minimumOrderAmountInCents": 100
+}

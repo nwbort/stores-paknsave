@@ -1,0 +1,83 @@
+{
+  "id": "715f0e22-95e0-45ce-af3a-07057209976e",
+  "name": "PAK'nSAVE Rangiora",
+  "banner": "PNS",
+  "address": "2 Southbrook Road, Waimakariri, Rangiora, 7400",
+  "clickAndCollect": true,
+  "delivery": false,
+  "latitude": -43.3248,
+  "longitude": 172.5999,
+  "openingHours": [
+    {
+      "day": "MONDAY",
+      "dayShort": "Mon",
+      "open": "7:00 AM",
+      "close": "10:00 PM"
+    },
+    {
+      "day": "TUESDAY",
+      "dayShort": "Tue",
+      "open": "7:00 AM",
+      "close": "10:00 PM"
+    },
+    {
+      "day": "WEDNESDAY",
+      "dayShort": "Wed",
+      "open": "7:00 AM",
+      "close": "10:00 PM"
+    },
+    {
+      "day": "THURSDAY",
+      "dayShort": "Thu",
+      "open": "7:00 AM",
+      "close": "10:00 PM"
+    },
+    {
+      "day": "FRIDAY",
+      "dayShort": "Fri",
+      "open": "7:00 AM",
+      "close": "10:00 PM"
+    },
+    {
+      "day": "SATURDAY",
+      "dayShort": "Sat",
+      "open": "7:00 AM",
+      "close": "10:00 PM"
+    },
+    {
+      "day": "SUNDAY",
+      "dayShort": "Sun",
+      "open": "7:00 AM",
+      "close": "10:00 PM"
+    }
+  ],
+  "phone": "0800 PAKNSAVE",
+  "localPhone": "033118636",
+  "linkDetails": {
+    "liquorLicenseUrl": "https://s3-ap-southeast-2.amazonaws.com/prod-prod-grability-bucket/documents/000000/9012/liquor-license.pdf"
+  },
+  "physicalStoreCode": "0000009012",
+  "region": "SI",
+  "salesOrgId": "12",
+  "onboardingMode": false,
+  "openingDate": "2021-07-01T00:00:00",
+  "defaultCollectType": "CONCIERGE",
+  "expressTimeslots": false,
+  "onlineActive": true,
+  "physicalActive": true,
+  "servicesAndFacilities": [],
+  "physicalAddress": {
+    "houseID": "2",
+    "streetName": "Southbrook Road",
+    "cityName": "Rangiora",
+    "regionName": "Canterbury",
+    "districtName": "Waimakariri",
+    "postalCode": "7400",
+    "countryCode": "NZ",
+    "countryName": "New Zealand"
+  },
+  "deliverySubscriptionProperties": {
+    "available": false
+  },
+  "minimumOrderAmountInCents": 100
+}

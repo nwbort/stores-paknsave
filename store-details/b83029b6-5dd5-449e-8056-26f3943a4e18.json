@@ -1,0 +1,82 @@
+{
+  "id": "b83029b6-5dd5-449e-8056-26f3943a4e18",
+  "name": "PAK'nSAVE Lower Hutt",
+  "banner": "PNS",
+  "address": "20 Brunswick Street, Hutt Central, Lower Hutt, 5010",
+  "clickAndCollect": true,
+  "delivery": false,
+  "latitude": -41.205578,
+  "longitude": 174.913149,
+  "openingHours": [
+    {
+      "day": "MONDAY",
+      "dayShort": "Mon",
+      "open": "7:00 AM",
+      "close": "10:00 PM"
+    },
+    {
+      "day": "TUESDAY",
+      "dayShort": "Tue",
+      "open": "7:00 AM",
+      "close": "10:00 PM"
+    },
+    {
+      "day": "WEDNESDAY",
+      "dayShort": "Wed",
+      "open": "7:00 AM",
+      "close": "10:00 PM"
+    },
+    {
+      "day": "THURSDAY",
+      "dayShort": "Thu",
+      "open": "7:00 AM",
+      "close": "10:00 PM"
+    },
+    {
+      "day": "FRIDAY",
+      "dayShort": "Fri",
+      "open": "7:00 AM",
+      "close": "10:00 PM"
+    },
+    {
+      "day": "SATURDAY",
+      "dayShort": "Sat",
+      "open": "7:00 AM",
+      "close": "10:00 PM"
+    },
+    {
+      "day": "SUNDAY",
+      "dayShort": "Sun",
+      "open": "7:00 AM",
+      "close": "10:00 PM"
+    }
+  ],
+  "phone": "0800 PAKNSAVE",
+  "localPhone": "045860463",
+  "linkDetails": {
+    "liquorLicenseUrl": "https://s3-ap-southeast-2.amazonaws.com/prod-prod-grability-bucket/documents/000010/5091/liquor-license.pdf"
+  },
+  "physicalStoreCode": "0000108054",
+  "region": "NI",
+  "salesOrgId": "5000",
+  "onboardingMode": false,
+  "defaultCollectType": "LOCKER",
+  "expressTimeslots": true,
+  "expressProductLimit": 0,
+  "onlineActive": true,
+  "physicalActive": true,
+  "servicesAndFacilities": [],
+  "physicalAddress": {
+    "streetName": "20 Brunswick Street",
+    "cityName": "Lower Hutt",
+    "additionalCityName": "Hutt Central",
+    "regionName": "Wellington",
+    "postalCode": "5010",
+    "countryCode": "NZ",
+    "countryName": "New Zealand"
+  },
+  "deliverySubscriptionProperties": {
+    "available": false
+  },
+  "minimumOrderAmountInCents": 100
+}

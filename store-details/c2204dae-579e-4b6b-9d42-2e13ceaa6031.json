@@ -1,0 +1,81 @@
+{
+  "id": "c2204dae-579e-4b6b-9d42-2e13ceaa6031",
+  "name": "PAK'nSAVE Pukekohe",
+  "banner": "PNS",
+  "address": "99 Queen Street, Pukekohe, 2120",
+  "clickAndCollect": true,
+  "delivery": false,
+  "latitude": -37.205157,
+  "longitude": 174.899612,
+  "openingHours": [
+    {
+      "day": "MONDAY",
+      "dayShort": "Mon",
+      "open": "8:00 AM",
+      "close": "9:00 PM"
+    },
+    {
+      "day": "TUESDAY",
+      "dayShort": "Tue",
+      "open": "8:00 AM",
+      "close": "9:00 PM"
+    },
+    {
+      "day": "WEDNESDAY",
+      "dayShort": "Wed",
+      "open": "8:00 AM",
+      "close": "9:00 PM"
+    },
+    {
+      "day": "THURSDAY",
+      "dayShort": "Thu",
+      "open": "8:00 AM",
+      "close": "9:00 PM"
+    },
+    {
+      "day": "FRIDAY",
+      "dayShort": "Fri",
+      "open": "8:00 AM",
+      "close": "9:00 PM"
+    },
+    {
+      "day": "SATURDAY",
+      "dayShort": "Sat",
+      "open": "8:00 AM",
+      "close": "9:00 PM"
+    },
+    {
+      "day": "SUNDAY",
+      "dayShort": "Sun",
+      "open": "8:00 AM",
+      "close": "9:00 PM"
+    }
+  ],
+  "phone": "0800 PAKNSAVE",
+  "localPhone": "092380400",
+  "linkDetails": {
+    "liquorLicenseUrl": "https://s3-ap-southeast-2.amazonaws.com/prod-prod-grability-bucket/documents/000010/5015/liquor-license.pdf"
+  },
+  "physicalStoreCode": "0000106686",
+  "region": "NI",
+  "salesOrgId": "5000",
+  "onboardingMode": false,
+  "defaultCollectType": "CONCIERGE",
+  "expressTimeslots": true,
+  "expressProductLimit": 0,
+  "onlineActive": true,
+  "physicalActive": true,
+  "servicesAndFacilities": [],
+  "physicalAddress": {
+    "streetName": "99 Queen Street",
+    "cityName": "Pukekohe",
+    "regionName": "Auckland",
+    "postalCode": "2120",
+    "countryCode": "NZ",
+    "countryName": "New Zealand"
+  },
+  "deliverySubscriptionProperties": {
+    "available": false
+  },
+  "minimumOrderAmountInCents": 100
+}
