@@ -52,7 +52,7 @@
     }
   ],
   "phone": "0800 PAKNSAVE",
-  "localPhone": "098370221",
+  "localPhone": "0",
   "linkDetails": {
     "liquorLicenseUrl": "https://s3-ap-southeast-2.amazonaws.com/prod-prod-grability-bucket/documents/000010/5094/liquor-license.pdf"
   },
