@@ -164,88 +164,6 @@
       "minimumOrderAmountInCents": 100
     },
     {
-      "id": "90082979-fb9f-4305-9c72-83274fc438cc",
-      "name": "PAK'nSAVE Dunedin",
-      "banner": "PNS",
-      "address": "86 Hillside Road, South Dunedin, Dunedin, 9012",
-      "clickAndCollect": true,
-      "delivery": false,
-      "latitude": -45.8927,
-      "longitude": 170.4992,
-      "openingHours": [
-        {
-          "day": "MONDAY",
-          "dayShort": "Mon",
-          "open": "7:00 AM",
-          "close": "10:00 PM"
-        },
-        {
-          "day": "TUESDAY",
-          "dayShort": "Tue",
-          "open": "7:00 AM",
-          "close": "10:00 PM"
-        },
-        {
-          "day": "WEDNESDAY",
-          "dayShort": "Wed",
-          "open": "7:00 AM",
-          "close": "10:00 PM"
-        },
-        {
-          "day": "THURSDAY",
-          "dayShort": "Thu",
-          "open": "7:00 AM",
-          "close": "10:00 PM"
-        },
-        {
-          "day": "FRIDAY",
-          "dayShort": "Fri",
-          "open": "7:00 AM",
-          "close": "10:00 PM"
-        },
-        {
-          "day": "SATURDAY",
-          "dayShort": "Sat",
-          "open": "7:00 AM",
-          "close": "10:00 PM"
-        },
-        {
-          "day": "SUNDAY",
-          "dayShort": "Sun",
-          "open": "7:00 AM",
-          "close": "10:00 PM"
-        }
-      ],
-      "phone": "0800 PAKNSAVE",
-      "localPhone": "034555129",
-      "linkDetails": {
-        "liquorLicenseUrl": "https://s3-ap-southeast-2.amazonaws.com/prod-prod-grability-bucket/documents/000000/9029/liquor-license.pdf"
-      },
-      "physicalStoreCode": "0000009029",
-      "region": "SI",
-      "salesOrgId": "12",
-      "onboardingMode": false,
-      "defaultCollectType": "CONCIERGE",
-      "expressTimeslots": false,
-      "onlineActive": true,
-      "physicalActive": true,
-      "servicesAndFacilities": [],
-      "physicalAddress": {
-        "houseID": "86",
-        "streetName": "Hillside Road",
-        "cityName": "Dunedin",
-        "regionName": "Otago",
-        "districtName": "South Dunedin",
-        "postalCode": "9012",
-        "countryCode": "NZ",
-        "countryName": "New Zealand"
-      },
-      "deliverySubscriptionProperties": {
-        "available": false
-      },
-      "minimumOrderAmountInCents": 100
-    },
-    {
       "id": "3bfe040b-f0c9-45e0-949b-b9ad5a591d55",
       "name": "PAK'nSAVE Papamoa",
       "banner": "PNS",
@@ -481,6 +399,88 @@
         "cityName": "Whakatane",
         "regionName": "Bay of Plenty",
         "postalCode": "3120",
+        "countryCode": "NZ",
+        "countryName": "New Zealand"
+      },
+      "deliverySubscriptionProperties": {
+        "available": false
+      },
+      "minimumOrderAmountInCents": 100
+    },
+    {
+      "id": "90082979-fb9f-4305-9c72-83274fc438cc",
+      "name": "PAK'nSAVE Dunedin",
+      "banner": "PNS",
+      "address": "86 Hillside Road, South Dunedin, Dunedin, 9012",
+      "clickAndCollect": true,
+      "delivery": false,
+      "latitude": -45.8927,
+      "longitude": 170.4992,
+      "openingHours": [
+        {
+          "day": "MONDAY",
+          "dayShort": "Mon",
+          "open": "7:00 AM",
+          "close": "10:00 PM"
+        },
+        {
+          "day": "TUESDAY",
+          "dayShort": "Tue",
+          "open": "7:00 AM",
+          "close": "10:00 PM"
+        },
+        {
+          "day": "WEDNESDAY",
+          "dayShort": "Wed",
+          "open": "7:00 AM",
+          "close": "10:00 PM"
+        },
+        {
+          "day": "THURSDAY",
+          "dayShort": "Thu",
+          "open": "7:00 AM",
+          "close": "10:00 PM"
+        },
+        {
+          "day": "FRIDAY",
+          "dayShort": "Fri",
+          "open": "7:00 AM",
+          "close": "10:00 PM"
+        },
+        {
+          "day": "SATURDAY",
+          "dayShort": "Sat",
+          "open": "7:00 AM",
+          "close": "10:00 PM"
+        },
+        {
+          "day": "SUNDAY",
+          "dayShort": "Sun",
+          "open": "7:00 AM",
+          "close": "10:00 PM"
+        }
+      ],
+      "phone": "0800 PAKNSAVE",
+      "localPhone": "034555129",
+      "linkDetails": {
+        "liquorLicenseUrl": "https://s3-ap-southeast-2.amazonaws.com/prod-prod-grability-bucket/documents/000000/9029/liquor-license.pdf"
+      },
+      "physicalStoreCode": "0000009029",
+      "region": "SI",
+      "salesOrgId": "12",
+      "onboardingMode": false,
+      "defaultCollectType": "CONCIERGE",
+      "expressTimeslots": false,
+      "onlineActive": true,
+      "physicalActive": true,
+      "servicesAndFacilities": [],
+      "physicalAddress": {
+        "houseID": "86",
+        "streetName": "Hillside Road",
+        "cityName": "Dunedin",
+        "regionName": "Otago",
+        "districtName": "South Dunedin",
+        "postalCode": "9012",
         "countryCode": "NZ",
         "countryName": "New Zealand"
       },
@@ -1213,6 +1213,88 @@
         "additionalCityName": "Clendon Park",
         "regionName": "Auckland",
         "postalCode": "2103",
+        "countryCode": "NZ",
+        "countryName": "New Zealand"
+      },
+      "deliverySubscriptionProperties": {
+        "available": false
+      },
+      "minimumOrderAmountInCents": 100
+    },
+    {
+      "id": "bdc5ef4a-c6a7-4f8a-b8cb-28109e6d61c3",
+      "name": "PAK'nSAVE Rolleston",
+      "banner": "PNS",
+      "address": "157 Levi Road, Rolleston, Rolleston, 7614",
+      "clickAndCollect": true,
+      "delivery": false,
+      "latitude": -43.59731231,
+      "longitude": 172.39645748,
+      "openingHours": [
+        {
+          "day": "MONDAY",
+          "dayShort": "Mon",
+          "open": "8:00 AM",
+          "close": "9:00 PM"
+        },
+        {
+          "day": "TUESDAY",
+          "dayShort": "Tue",
+          "open": "8:00 AM",
+          "close": "9:00 PM"
+        },
+        {
+          "day": "WEDNESDAY",
+          "dayShort": "Wed",
+          "open": "8:00 AM",
+          "close": "9:00 PM"
+        },
+        {
+          "day": "THURSDAY",
+          "dayShort": "Thu",
+          "open": "8:00 AM",
+          "close": "9:00 PM"
+        },
+        {
+          "day": "FRIDAY",
+          "dayShort": "Fri",
+          "open": "8:00 AM",
+          "close": "9:00 PM"
+        },
+        {
+          "day": "SATURDAY",
+          "dayShort": "Sat",
+          "open": "8:00 AM",
+          "close": "9:00 PM"
+        },
+        {
+          "day": "SUNDAY",
+          "dayShort": "Sun",
+          "open": "8:00 AM",
+          "close": "9:00 PM"
+        }
+      ],
+      "phone": "0800 PAKNSAVE",
+      "localPhone": "039743243",
+      "linkDetails": {
+        "liquorLicenseUrl": "https://s3-ap-southeast-2.amazonaws.com/prod-prod-grability-bucket/documents/000000/9030/liquor-license.pdf"
+      },
+      "physicalStoreCode": "0000009030",
+      "region": "SI",
+      "salesOrgId": "12",
+      "onboardingMode": false,
+      "defaultCollectType": "CONCIERGE",
+      "expressTimeslots": false,
+      "onlineActive": true,
+      "physicalActive": true,
+      "servicesAndFacilities": [],
+      "physicalAddress": {
+        "houseID": "157",
+        "streetName": "Levi Road",
+        "cityName": "Rolleston",
+        "regionName": "Canterbury",
+        "districtName": "Rolleston",
+        "postalCode": "7614",
         "countryCode": "NZ",
         "countryName": "New Zealand"
       },
@@ -3994,88 +4076,6 @@
         "regionName": "Canterbury",
         "districtName": "Waimataitai",
         "postalCode": "7910",
-        "countryCode": "NZ",
-        "countryName": "New Zealand"
-      },
-      "deliverySubscriptionProperties": {
-        "available": false
-      },
-      "minimumOrderAmountInCents": 100
-    },
-    {
-      "id": "bdc5ef4a-c6a7-4f8a-b8cb-28109e6d61c3",
-      "name": "PAK'nSAVE Rolleston",
-      "banner": "PNS",
-      "address": "157 Levi Road, Rolleston, Rolleston, 7614",
-      "clickAndCollect": true,
-      "delivery": false,
-      "latitude": -43.59731231,
-      "longitude": 172.39645748,
-      "openingHours": [
-        {
-          "day": "MONDAY",
-          "dayShort": "Mon",
-          "open": "8:00 AM",
-          "close": "9:00 PM"
-        },
-        {
-          "day": "TUESDAY",
-          "dayShort": "Tue",
-          "open": "8:00 AM",
-          "close": "9:00 PM"
-        },
-        {
-          "day": "WEDNESDAY",
-          "dayShort": "Wed",
-          "open": "8:00 AM",
-          "close": "9:00 PM"
-        },
-        {
-          "day": "THURSDAY",
-          "dayShort": "Thu",
-          "open": "8:00 AM",
-          "close": "9:00 PM"
-        },
-        {
-          "day": "FRIDAY",
-          "dayShort": "Fri",
-          "open": "8:00 AM",
-          "close": "9:00 PM"
-        },
-        {
-          "day": "SATURDAY",
-          "dayShort": "Sat",
-          "open": "8:00 AM",
-          "close": "9:00 PM"
-        },
-        {
-          "day": "SUNDAY",
-          "dayShort": "Sun",
-          "open": "8:00 AM",
-          "close": "9:00 PM"
-        }
-      ],
-      "phone": "0800 PAKNSAVE",
-      "localPhone": "039743243",
-      "linkDetails": {
-        "liquorLicenseUrl": "https://s3-ap-southeast-2.amazonaws.com/prod-prod-grability-bucket/documents/000000/9030/liquor-license.pdf"
-      },
-      "physicalStoreCode": "0000009030",
-      "region": "SI",
-      "salesOrgId": "12",
-      "onboardingMode": false,
-      "defaultCollectType": "CONCIERGE",
-      "expressTimeslots": false,
-      "onlineActive": true,
-      "physicalActive": true,
-      "servicesAndFacilities": [],
-      "physicalAddress": {
-        "houseID": "157",
-        "streetName": "Levi Road",
-        "cityName": "Rolleston",
-        "regionName": "Canterbury",
-        "districtName": "Rolleston",
-        "postalCode": "7614",
         "countryCode": "NZ",
         "countryName": "New Zealand"
       },
